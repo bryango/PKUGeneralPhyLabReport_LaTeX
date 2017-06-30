@@ -1,6 +1,7 @@
 # PKUGeneralPhyLabReport_LaTeX
-北京大学物理学院普通物理实验报告 - 2016~2017学年
 Standardized LaTeX lab report for the course: General Physics Experiments. 
+  北京大学物理学院普通物理实验报告 - 2016~2017学年
+
 
 * 提供一个普物实验的 LaTeX 模版供大家使用 ~
 * 请使用 XeLaTeX 编译，编辑器选用 UTF-8 编码
